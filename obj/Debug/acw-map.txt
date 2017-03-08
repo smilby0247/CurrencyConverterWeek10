@@ -1,0 +1,4 @@
+CurrencyConverter.MainActivity, CurrencyConverter;md5dfaa674aa0283b54189fb8c61d6bfd61.MainActivity
+CurrencyConverter.MainActivity, CurrencyConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5dfaa674aa0283b54189fb8c61d6bfd61.MainActivity
+CurrencyConverter.MainActivity;md5dfaa674aa0283b54189fb8c61d6bfd61.MainActivity
+currencyconverter.MainActivity;md5dfaa674aa0283b54189fb8c61d6bfd61.MainActivity
